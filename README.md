@@ -8,7 +8,6 @@ University student pursuing a degree in Computer Engineering, with a keen intere
 
 * 🌍  I'm based in Asunción, Paraguay
 * ✉️  You can contact me at [ivanbenitez85@gmail.com](mailto:ivanbenitez85@gmail.com)
-* 🧠  I'm learning .NET
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
